@@ -1,0 +1,26 @@
+.chanelRow {
+  display: flex;
+  align-items: center;
+  width: 60%;
+  margin-left: 20px;
+}
+
+.chanelRow__logo {
+  height: 120px !important;
+  width: 120px !important;
+}
+
+.chanelRow__text {
+  margin-left: 20px;
+}
+
+.chanelRow__text > p {
+  font-size: small !important;
+  color: #606060;
+}
+
+.chanelRow__text > h4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

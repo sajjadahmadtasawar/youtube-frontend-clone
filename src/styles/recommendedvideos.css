@@ -1,0 +1,9 @@
+.recommendedVideos {
+  flex: 0.8;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 20px;
+}
+.text {
+  padding-bottom: 50px;
+}

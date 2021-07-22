@@ -1,0 +1,30 @@
+.videoRow {
+  display: flex;
+  width: 65%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.videoRow__image {
+  height: 160px;
+  width: 250px;
+  margin-right: 20px;
+}
+
+.videoRow__text > p {
+  font-size: 12px;
+  color: grey;
+}
+
+.videoRow__description {
+  margin-top: 10px;
+}
+
+.viderRow__subs {
+  font-weight: bolder;
+  color: rgb(84, 157, 211);
+}
+
+.videoRow__subInfo {
+  background-color: lightgrey;
+}
